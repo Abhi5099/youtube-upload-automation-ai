@@ -9,7 +9,7 @@ This project automates YouTube video uploads by:
 Ideal for content creators seeking to save time, improve video rankings, and maintain platform standards.  
 
 ## Screenshot  
-![Make.com workflow screenshot](assets/workflow-screenshot.png)  
+![Make.com workflow screenshot]([assets/workflow-screenshot.png](https://github.com/Abhi5099/youtube-upload-automation-ai/blob/main/Screenshot%202025-06-02%20045517.png?raw=true))  
 *Alt text: Make.com scenario automating YouTube uploads with Google Drive and OpenAI integrations.*  
 
 ## Tools & Platforms Used  
